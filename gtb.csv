@@ -1,0 +1,10 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"CR1220";"BatteryHolder_Keystone_3000_1x12mm";1;"BatteryHolder_Keystone_3000_1x12mm";;;
+2;"REF**,REF**";"OSHW-Logo2_9.8x8mm_Copper";2;"OSHW-Logo2_9.8x8mm_Copper";;;
+3;"REF**";"KiCad-Logo2_5mm_Copper";1;"KiCad-Logo2_5mm_Copper";;;
+4;"U1";"SOIC-8-1EP_W3.9mm";1;"7555";;;
+5;"R3";"R_0805_2012Metric_Pad1.15x1.40mm_HandSolder";1;"100";;;
+6;"R2";"R_0805_2012Metric_Pad1.15x1.40mm_HandSolder";1;"470K";;;
+7;"R1";"R_0805_2012Metric_Pad1.15x1.40mm_HandSolder";1;"1K";;;
+8;"D1";"LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder";1;"LED";;;
+9;"C1";"C_1206_3216Metric_Pad1.42x1.75mm_HandSolder";1;"1uF";;;
