@@ -96,7 +96,7 @@ Connection ~ 5850 2600
 Wire Wire Line
 	4400 2250 5850 2250
 Wire Wire Line
-	4400 2800 4400 2250
+	4400 2800 4400 2750
 Wire Wire Line
 	5850 2250 5850 2600
 Wire Wire Line
@@ -189,4 +189,21 @@ F 11 "smt" H 3750 3150 50  0001 C CIN "Type"
 	1    0    0    -1  
 $EndComp
 NoConn ~ 5900 4400
+$Comp
+L power:PWR_FLAG #FLG0101
+U 1 1 5E43E30D
+P 4050 2750
+F 0 "#FLG0101" H 4050 2825 50  0001 C CNN
+F 1 "PWR_FLAG" H 4050 2923 50  0000 C CNN
+F 2 "" H 4050 2750 50  0001 C CNN
+F 3 "~" H 4050 2750 50  0001 C CNN
+	1    4050 2750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4050 2750 4400 2750
+Connection ~ 4050 2750
+Connection ~ 4400 2750
+Wire Wire Line
+	4400 2750 4400 2250
 $EndSCHEMATC
