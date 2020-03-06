@@ -1,5 +1,5 @@
 ## "After Dark" Butterfly plus Getting to Blinky for Open Hardware Summit
-![kit label](images/kit.png)
+![kit label](https://github.com/pdp7/gtb/blob/master/images/kit.png)
 
 Blog post:
 https://blog.oshpark.com/2020/03/06/goodies-for-the-open-hardware-summit/
