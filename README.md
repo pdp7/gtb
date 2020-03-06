@@ -2,8 +2,9 @@
 ![kit label](https://github.com/pdp7/gtb/blob/master/images/kit.png)
 
 * [Read the OSH Park blog post](https://blog.oshpark.com/2020/03/06/goodies-for-the-open-hardware-summit/)
-* The Open Hardware Summit is next week, March 13th, 2020.  [Everyone will receive one in their conference goodie bags](https://twitter.com/pdp7/status/1235885595332878336).
-* Thanks so much to Kevin Walseth at Digi-Key for making it happen! ⚡️ 
+* [The Open Hardware Summit is next week, March 13th, 2020](http://2020.oshwa.org/)
+* [Everyone will receive one in their conference goodie bags](https://twitter.com/pdp7/status/1235885595332878336).
+  * Thanks so much to Kevin Walseth at Digi-Key for making it happen! ⚡️ 
   * [Thanks to our Dan (@tekdemo) for the beautiful “After Dark” PCB art 🦋](https://twitter.com/pdp7/status/1235885597459443718)
   * [Thanks to Chris Gammell for the “Getting to Blinky” videos!](https://github.com/pdp7/gtb
 ) 🎥 It is a great way to learn KiCad!
