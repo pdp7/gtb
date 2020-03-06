@@ -1,5 +1,8 @@
 ## Afte Dark Butterfly with Getting to Blinky for Open Hardware Summit
 
+Blog post:
+https://blog.oshpark.com/2020/03/06/goodies-for-the-open-hardware-summit/
+
 The Open Hardware Summit is next week, March 13th, 2020.  Everyone will receive in their conference goodie bags:
 https://twitter.com/pdp7/status/1235885595332878336
 
