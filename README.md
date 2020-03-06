@@ -1,4 +1,4 @@
-## OSH Park "After Dark" Butterfly plus Getting to Blinky for Open Hardware Summit 2020
+## "After Dark" Butterfly plus Getting to Blinky for Open Hardware Summit
 ![kit label](images/kit.png)
 
 Blog post:
