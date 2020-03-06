@@ -1,4 +1,5 @@
-## Afte Dark Butterfly with Getting to Blinky for Open Hardware Summit
+## OSH Park "After Dark" Butterfly plus Getting to Blinky for Open Hardware Summit 2020
+![kit label](images/kit.png)
 
 Blog post:
 https://blog.oshpark.com/2020/03/06/goodies-for-the-open-hardware-summit/
