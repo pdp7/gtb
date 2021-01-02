@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 3,
     "active_layer_preset": "",
     "hidden_nets": [],
     "high_contrast_mode": 0,
@@ -36,6 +36,7 @@
       8,
       9,
       10,
+      11,
       12,
       13,
       14,
@@ -49,17 +50,18 @@
       22,
       23,
       24,
-      25,
-      26,
       27,
       28,
       29,
       30,
       31,
-      36,
-      37
+      32,
+      33,
+      37,
+      38
     ],
-    "visible_layers": "003fbff_80000001"
+    "visible_layers": "0015055_ffffffff",
+    "zone_display_mode": 0
   },
   "meta": {
     "filename": "gtb.kicad_prl",
